@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![KingMurky's github stats](https://github-readme-stats.vercel.app/api?username=KingMurky)](https://github.com/KingMurky/github-readme-stats)
-[![KingMurky's solved.ac stats](https://github-readme-solvedac.KingMurky.vercel.app/api/?handle=overwatcher123)
+![KingMurky's solved.ac stats](https://github-readme-solvedac.KingMurky.vercel.app/api/?handle=overwatcher123)
 <!--
 **KingMurky/KingMurky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
