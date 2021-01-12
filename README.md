@@ -1,4 +1,8 @@
-### Hi there 👋
+### "Hello, World!"
+#### About
+> Korea University, Computer Science & Engineering
+> sophomore ✌
+
 [![KingMurky's github stats](https://github-readme-stats.vercel.app/api?username=KingMurky)](https://github.com/KingMurky/github-readme-stats)
 ![KingMurky's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=overwatcher123)
 
