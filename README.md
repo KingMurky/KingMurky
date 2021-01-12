@@ -1,6 +1,6 @@
 ## "Hello, World!"
 #### About
-> Korea University, Computer Science & Engineering
+> Korea University, Computer Science & Engineering<br>
 > **sophomore** ✌
 
 [![KingMurky's github stats](https://github-readme-stats.vercel.app/api?username=KingMurky)](https://github.com/KingMurky/github-readme-stats)
