@@ -1,4 +1,4 @@
-### "Hello, World!"
+## "Hello, World!"
 #### About
 > Korea University, Computer Science & Engineering
 > **sophomore** ✌
