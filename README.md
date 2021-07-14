@@ -7,7 +7,7 @@
 > Board at **KWEB, Korea University Web Master** (2021. 07 ~ )<br>
 > - 🌱 I’m currently learning ...<br>
 > *Web Back-end (Django, Node.js, express, spring)*<br>
-> *Machine Learning, Deep Learning (PyTorch, sklearn)*<br>
+> *Machine Learning, Deep Learning, NLP (PyTorch, sklearn)*<br>
 [![KingMurky's github stats](https://github-readme-stats.vercel.app/api?username=KingMurky)](https://github.com/KingMurky/github-readme-stats)
 
 <!--
