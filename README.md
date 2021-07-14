@@ -2,17 +2,16 @@
 ## About
 > Korea University, Computer Science & Engineering<br>
 > **sophomore** ✌
-
+> - 🔭 I’m currently working on ...
+> Undergraduate Intern in **DMIS Lab, Korea University** (2021. 07 ~ )
+> Board at **KWEB, Korea University Web Master** (2021. 07 ~ )
+> - 🌱 I’m currently learning ...
+> *Web Back-end (Django, Node.js, express, spring)*
+> *Machine Learning, Deep Learning (PyTorch, sklearn)*
 [![KingMurky's github stats](https://github-readme-stats.vercel.app/api?username=KingMurky)](https://github.com/KingMurky/github-readme-stats)
-![KingMurky's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=overwatcher123)
 
 <!--
-**KingMurky/KingMurky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
